@@ -6,11 +6,11 @@
 
 
 
-&nbsp;- Brasileiro
+- Brasileiro
 
-&nbsp;- Estudante do curso de "Programação com Java e C#"
+- Estudante do curso de "Programação com Java e C#"
 
-&nbsp;- Natural de Belo Horizonte
+- Natural de Belo Horizonte
 
 
 
@@ -18,7 +18,7 @@
 
 
 
-&nbsp;- Dominar a logica de programação
+- Dominar a logica de programação
 
-&nbsp;- Aprender mais sobre linguagens de programação 
+- Aprender mais sobre linguagens de programação 
 
