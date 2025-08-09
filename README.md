@@ -1,8 +1,8 @@
-# \# Meu Perfil
+# Meu Perfil
 
 
 
-\##Sou Pedro
+##Sou Pedro
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-\## Meus Objetivos
+## Meus Objetivos
 
 
 
