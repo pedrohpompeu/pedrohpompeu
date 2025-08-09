@@ -22,3 +22,9 @@
 
 - Aprender mais sobre linguagens de programação 
 
+## Minhas Experiências 
+
+- Estudante de TI
+- Básico em Python
+- Básico em HTML
+- Montagens de PCs 
