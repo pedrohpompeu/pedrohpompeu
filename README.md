@@ -28,3 +28,10 @@
 - Básico em Python
 - Básico em HTML
 - Montagens de PCs 
+
+## Meus Projetos 
+
+- Aqui estão alguns projetos e exercícios desenvolvidos ao longo do curso:
+
+🌐 Projeto 1 - Em desenvolvimento ...
+
