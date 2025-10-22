@@ -27,7 +27,7 @@
 - Estudante de TI
 - Básico em Python
 - Básico em HTML
-- Montagens de PCs 
+- Básico em Java
 
 ## Meus Projetos 
 
