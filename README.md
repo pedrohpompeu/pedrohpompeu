@@ -8,7 +8,7 @@
 
 - Brasileiro
 
-- Estudante do curso de "Programação com Java e C#"
+- Estudante de TI
 
 - Natural de Belo Horizonte
 
@@ -20,18 +20,16 @@
 
 - Dominar a logica de programação
 
-- Aprender mais sobre linguagens de programação 
+- Aprender mais sobre linguagens de programação
+
+- Se tornar um DEV Full-Stack
 
 ## Minhas Experiências 
 
 - Estudante de TI
 - Básico em Python
 - Básico em HTML
-- Básico em Java
+- Java
+- C#
 
 ## Meus Projetos 
-
-- Aqui estão alguns projetos e exercícios desenvolvidos ao longo do curso:
-
-🌐 Projeto 1 - Em desenvolvimento ...
-
